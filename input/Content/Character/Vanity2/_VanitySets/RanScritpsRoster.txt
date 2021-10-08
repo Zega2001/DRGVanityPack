@@ -16,3 +16,4 @@
 .\HeadwearMerging_STHelmet.ds
 .\HeadwearMerging_MandoHelmet.ds
 .\HeadwearMerging_HuntingHat.ds
+.\HeadwearMerging_MJHat.ds
